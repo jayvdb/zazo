@@ -1,6 +1,6 @@
 import nox
 
-LINT_FILES = "docs", "src", "tests", "nox.py"
+LINT_FILES = "docs", "src", "tests", "noxfile.py"
 
 
 @nox.session
